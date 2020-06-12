@@ -4,6 +4,7 @@ body{
     margin: 0;
     padding: 0;
 
+    background: $almond;
 
     @include flexbox{
         flex-direction: column;
@@ -28,6 +29,9 @@ section{
 
     max-width: 1000px;
     width: 80vw;
+    background: white;
+    padding: 2rem;
+
 }
 header{
 
