@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="179.99986mm"
+   height="179.66138mm"
+   viewBox="0 0 179.99986 179.66138"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="C:\Users\Petr\OneDrive - School Technology Innovation Center - Střední průmyslová škola, Praha 10, Na Třebešíně 2299\Dokuments\Programs\myweb\assets\img\favicon.png"
+   inkscape:export-xdpi="4.52"
+   inkscape:export-ydpi="4.52">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="359.44547"
+     inkscape:cy="208.23455"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.000118,-58.499787)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.92622709;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 396.84961,221.10156 A 340.15748,340.15748 0 0 0 56.693359,561.25977 340.15748,340.15748 0 0 0 371.24609,900.13672 L 363.6543,662.90039 237.38672,656.83984 131.32031,478.04297 l 95.96485,-7.07227 51.51757,113.13672 76.77149,4.04102 -7.07227,-228.29297 98.9961,-1.01172 v 270.7207 l 80.8125,-19.1914 12.12109,-136.3711 78.79102,10.10157 -25.25391,189.9082 -139.40039,32.32422 4.22266,189.20703 A 340.15748,340.15748 0 0 0 737.00781,561.25977 340.15748,340.15748 0 0 0 396.84961,221.10156 Z"
+       transform="scale(0.26458333)"
+       id="path857"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
